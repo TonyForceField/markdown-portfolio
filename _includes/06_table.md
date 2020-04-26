@@ -5,7 +5,7 @@ To be honset | This is a table
 Name|Tony
 Interest| **Studying** <del>Gaming</del>
 Mood| **Hardworking** <del>Lazy</del>
-My picture|![Yes, that is me](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fo0vwzuFwCGAFO%2Fgiphy.gif&f=1&nofb=1)
+My picture|![Yes, that is me](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 
 ### What I currently know
@@ -20,4 +20,4 @@ My picture|![Yes, that is me](https://external-content.duckduckgo.com/iu/?u=http
 ### What I would like to know
 1. Math <del>Actually hate it</del>
 2. Science
-3. [Everything else](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsociorocketnewsen.files.wordpress.com%2F2016%2F07%2Fmind-blown.gif%3Fw%3D580%26h%3D435&f=1&nofb=1)
+3. [Everything else](https://sociorocketnewsen.files.wordpress.com/2016/07/mind-blown.gif?w=580&h=435)
